@@ -1,0 +1,5 @@
+smith j, silicon transistor scaling, 2021, Nature
+lee k, CMOS power reduction methods, 2019, IEEE
+patel r, nanoelectronics fabrication review, 2022, Science
+chen w, quantum dot applications, 2020, Applied Physics
+kumar a, VLSI design optimization, 2023, Electronics Letters
